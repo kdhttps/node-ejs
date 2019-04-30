@@ -1,0 +1,16 @@
+{
+  "name": "node-ejs-demo",
+  "version": "0.1.0",
+  "description": "Node JS EJS templat engine demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kiran Mali",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
